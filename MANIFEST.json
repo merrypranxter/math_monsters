@@ -1,0 +1,52 @@
+{
+  "source": "upload/math monsters.txt",
+  "quoteGroups": 73,
+  "files": [
+    "ALL-PROMPTS.md",
+    "MANIFEST.json",
+    "README.md",
+    "appendices/style-overlays.md",
+    "archive/math-monsters-collaborate-transcript.txt",
+    "candidates/01-sphere-eversion/prompt-parts.md",
+    "candidates/02-concrete-gyroid/prompt-parts.md",
+    "candidates/03-projective-plane/prompt-parts.md",
+    "candidates/04-kleinian-limit-set/prompt-parts.md",
+    "final/image-to-video.md",
+    "final/nano-banana-pro.md",
+    "final/negative-prompt.md",
+    "final/seedream-4.5.md",
+    "source/collaborate-brief.md"
+  ],
+  "collections": [
+    {
+      "id": "candidate-01",
+      "title": "Candidate 01 — Centralized Hydraulic Sphere Eversion",
+      "count": 23,
+      "path": "candidates/01-sphere-eversion/prompt-parts.md"
+    },
+    {
+      "id": "candidate-02",
+      "title": "Candidate 02 — Decentralized Concrete Gyroid",
+      "count": 11,
+      "path": "candidates/02-concrete-gyroid/prompt-parts.md"
+    },
+    {
+      "id": "candidate-03",
+      "title": "Candidate 03 — Zero-Thickness Projective Plane",
+      "count": 11,
+      "path": "candidates/03-projective-plane/prompt-parts.md"
+    },
+    {
+      "id": "candidate-04",
+      "title": "Candidate 04 — Maximalist Kleinian Limit Set",
+      "count": 22,
+      "path": "candidates/04-kleinian-limit-set/prompt-parts.md"
+    },
+    {
+      "id": "appendices",
+      "title": "Style Appendices",
+      "count": 2,
+      "path": "appendices/style-overlays.md"
+    }
+  ]
+}
