@@ -15,8 +15,20 @@
     "final/nano-banana-pro.md",
     "final/negative-prompt.md",
     "final/seedream-4.5.md",
+    "mutations/01-seifert-choir.md",
+    "mutations/02-cut-locus-eater.md",
+    "mutations/03-nodal-weather-organ.md",
+    "mutations/04-ultrametric-nursery.md",
+    "mutations/05-phason-molt.md",
+    "mutations/06-borromean-throat.md",
+    "mutations/README.md",
     "source/collaborate-brief.md"
   ],
+  "mutations": {
+    "count": 6,
+    "path": "mutations/README.md",
+    "rule": "Source components may be reused without limit when their mathematical or anatomical function changes."
+  },
   "collections": [
     {
       "id": "candidate-01",

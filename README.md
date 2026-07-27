@@ -7,6 +7,7 @@ The governing rule is simple: **the math is not decoration; the math becomes ana
 ## Start here
 
 - [All prompts in copy boxes](ALL-PROMPTS.md)
+- [The Mutation Ward: six new assembled monsters](mutations/README.md)
 - [Seedream 4.5 final still prompt](final/seedream-4.5.md)
 - [Nano Banana Pro final still prompt](final/nano-banana-pro.md)
 - [Image-to-video final prompt](final/image-to-video.md)
@@ -22,6 +23,19 @@ The governing rule is simple: **the math is not decoration; the math becomes ana
 | [Maximalist Kleinian Limit Set](candidates/04-kleinian-limit-set/prompt-parts.md) | Kleinian limit set / Apollonian packing + living negative-space intervals | 22 |
 
 Candidate 04—the **Maximalist Kleinian Limit Set**—was selected as the final monster because it achieves the strongest figure-ground collapse: the packed spheres become environmental pressure while the negative space between them becomes the living, biting anatomy.
+
+## The Mutation Ward
+
+Six additional monsters were surgically assembled from the extracted prompt DNA. Source components may be reused without limit, but every transplant must perform a different mathematical or anatomical function.
+
+| Organism | Governing system |
+|---|---|
+| [The Seifert Choir](mutations/01-seifert-choir.md) | Seifert and Hopf fibrations |
+| [The Cut-Locus Eater](mutations/02-cut-locus-eater.md) | Cut loci on a non-orientable surface |
+| [The Nodal Weather Organ](mutations/03-nodal-weather-organ.md) | Eigenfunction nodal sets and coupled oscillators |
+| [The Ultrametric Nursery](mutations/04-ultrametric-nursery.md) | p-adic / ultrametric relationships |
+| [The Phason Molt](mutations/05-phason-molt.md) | Quasiperiodic order and phason flips |
+| [The Borromean Throat](mutations/06-borromean-throat.md) | Knot complements and Borromean linkage |
 
 ## Repository map
 
@@ -39,6 +53,13 @@ Candidate 04—the **Maximalist Kleinian Limit Set**—was selected as the final
 │   ├── 02-concrete-gyroid/
 │   ├── 03-projective-plane/
 │   └── 04-kleinian-limit-set/
+├── mutations/
+│   ├── 01-seifert-choir.md
+│   ├── 02-cut-locus-eater.md
+│   ├── 03-nodal-weather-organ.md
+│   ├── 04-ultrametric-nursery.md
+│   ├── 05-phason-molt.md
+│   └── 06-borromean-throat.md
 ├── appendices/
 │   └── style-overlays.md
 ├── source/
