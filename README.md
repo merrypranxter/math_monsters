@@ -7,6 +7,7 @@ The governing rule is simple: **the math is not decoration; the math becomes ana
 ## Start here
 
 - [All prompts in copy boxes](ALL-PROMPTS.md)
+- [New diversity batch: 12 fresh math monsters](batches/2026-07-30-diversity-batch.md)
 - [The Mutation Ward: six new assembled monsters](mutations/README.md)
 - [Seedream 4.5 final still prompt](final/seedream-4.5.md)
 - [Nano Banana Pro final still prompt](final/nano-banana-pro.md)
