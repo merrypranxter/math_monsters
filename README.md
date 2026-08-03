@@ -15,7 +15,7 @@ The governing rule is simple: **the math is not decoration; the math becomes ana
 - [Pure math / flesh / eyes / mouths — prompts 73–92: the locked basement of mathematics](batches/2026-07-31-pure-math-flesh-eyes-mouths-06.md)
 - [Pure math / flesh / eyes / mouths — prompts 93–112: new age fantasy glam mathematics](batches/2026-07-31-pure-math-flesh-eyes-mouths-07.md)
 - [Pure math / flesh / eyes / mouths — prompts 113–132: symmetry has grown teeth](batches/2026-08-01-pure-math-flesh-eyes-mouths-08.md)
-- [Pure math / flesh / eyes / mouths — prompts 133–152: the jewel-tone signal autopsy](batches/2026-08-03-pure-math-flesh-eyes-mouths-09.md)
+- [Pure math / flesh / eyes / mouths — prompts 133–152: the candy-signal flesh spectacular](batches/2026-08-03-pure-math-flesh-eyes-mouths-09.md)
 - [New diversity batch: 12 fresh math monsters](batches/2026-07-30-diversity-batch.md)
 - [The Mutation Ward: six new assembled monsters](mutations/README.md)
 - [Seedream 4.5 final still prompt](final/seedream-4.5.md)
